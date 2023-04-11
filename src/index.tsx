@@ -1,7 +1,9 @@
 import React from 'react';
+import { Provider } from 'react-redux';
 import ReactDOM from 'react-dom/client';
-import './assets/login.css';
-import Login from './components/Login'
+import store  from "./store"
+import App from './components/Login'
+import "./bootstrap.min.css"
 
 
 
@@ -14,9 +16,9 @@ const root = ReactDOM.createRoot(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 root.render(
-  <React.StrictMode>
-  <Login />
-  </React.StrictMode>
+  <Provider store={store}>
+    <App />
+  </Provider>
 )
   
 ;

@@ -9,7 +9,7 @@ Purpose of the project was to challenge my technical prowess
  - [Description](#description)
  - [Features](#features)
  - [Technology  Used](#technology-Used)
- - [Project Requirements](#project-requirements)
+ - [Project status](#project-status)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
 [Go Back to the top](#grpc-clontacts-client)
@@ -39,37 +39,11 @@ well as authenticate users and manage their sessions </p>
 <li>gRPC</li>
 
 
-[Go Back to the top](#grpc-contact-client )
-###  Project-Requirements
-@grpc/grpc-js@1.8.13,
-@testing-library/jest-dom@5.16.5,
-@testing-library/react@13.4.0,
-@testing-library/user-event@13.5.0,
-@types/jest@27.5.2,
-@types/node@16.18.23,
-@types/react-dom@18.0.11,
-@types/react-router-dom@5.3.3,
-@types/react@18.0.33,
-axios@1.3.5,
-bootstrap@4.6.0,
-formik@2.2.9,
-google-protobuf@3.21.2,
-grpc-web@1.4.2,
-react-dom@18.2.0,
-react-router-dom@6.10.0,
-react-scripts@5.0.1,
-react@18.2.0,
-typescript@4.9.5,
-web-vitals@2.1.4,
-yup@1.0.2</p><h5>Steps</h5><ul>
-<li>Run npm install to add the dependencies</li>
-</ul><ul>
-
 [Go Back to the top](#grpc-contact-client)
 ### Project Status
 
 <p> Progress </p>
-Encountered various challenges such as implementing gRPC and connecting the front-end application with the back-end 
+<li>Encountered various challenges such as implementing gRPC and connecting the front-end application with the back-end </li>
 
 <p>Improvements</p>
 
