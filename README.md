@@ -1,9 +1,8 @@
 # grpc-cotact-client
-<li>It is an application that uses TypeScript to manage a
+<p>It is an application that uses TypeScript to manage a
 simple list of contacts. The application will have the ability to add, edit, and delete contacts, as
-well as authenticate users and manage their sessions usingg jwt tokens.</li>
-</ul><ul>
-<li>Purpose of the project was to challenge my technical prowess.</li>
+well as authenticate users and manage their sessions usingg jwt tokens.</p>
+Purpose of the project was to challenge my technical prowess
 
 ## By Angela W Kanyi
 ## Table of Content
@@ -14,7 +13,9 @@ well as authenticate users and manage their sessions usingg jwt tokens.</li>
  - [Authors Info](#Authors-Info)
 [Go Back to the top](#grpc-clontacts-client)
  ## Description
- <p>This is an application  with a react frontend and typescript backened</p>
+ <p>This is an application  that uses a react frontend and typescript backenedto manage a
+simple list of contacts. The application will have the ability to add, edit, and delete contacts, as
+well as authenticate users and manage their sessions </p>
  
 [Go Back to the top](#grpc-clontacts-client)
 
@@ -64,9 +65,12 @@ yup@1.0.2</p><h5>Steps</h5><ul>
 </ul><ul>
 
 [Go Back to the top](#grpc-contact-client)
-</ul><h2>Project Status</h2>
-<hr><p>In progress- Encountered various challenges such as implementing gRPC and connecting the front-end application with the back-end</p><h2>Improvements</h2>
-<hr><ul>
+## Project Status
+
+<p> progress- Encountered various challenges such as implementing gRPC and connecting the front-end application with the back-end </p>
+
+Improvements
+
 <li>Implementing the gRPC to the project to make the project complete to implement the CRUD functions.</li>
 </ul><ul>
 <li>Implementing a refresh token flow using browser available storage capabilities to work with the back-end API</li>
