@@ -65,11 +65,12 @@ yup@1.0.2</p><h5>Steps</h5><ul>
 </ul><ul>
 
 [Go Back to the top](#grpc-contact-client)
-## Project Status
+### Project Status
 
-<p> progress- Encountered various challenges such as implementing gRPC and connecting the front-end application with the back-end </p>
+<p> Progress </p>
+Encountered various challenges such as implementing gRPC and connecting the front-end application with the back-end 
 
-Improvements
+<p>Improvements</p>
 
 <li>Implementing the gRPC to the project to make the project complete to implement the CRUD functions.</li>
 </ul><ul>
