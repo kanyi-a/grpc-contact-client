@@ -1,4 +1,4 @@
-# grpc-cotact-client
+# grpc-contact-client
 <p>It is an application that uses TypeScript to manage a
 simple list of contacts. The application will have the ability to add, edit, and delete contacts, as
 well as authenticate users and manage their sessions usingg jwt tokens.</p>
