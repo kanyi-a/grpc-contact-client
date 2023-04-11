@@ -1,7 +1,7 @@
 # grpc-contact-client
 <p>It is an application that uses TypeScript to manage a
 simple list of contacts. The application will have the ability to add, edit, and delete contacts, as
-well as authenticate users and manage their sessions usingg jwt tokens.</p>
+well as authenticate users and manage their sessions using jwt tokens.</p>
 Purpose of the project was to challenge my technical prowess
 
 ## By Angela W Kanyi
@@ -9,6 +9,7 @@ Purpose of the project was to challenge my technical prowess
  - [Description](#description)
  - [Features](#features)
  - [Technology  Used](#technology-Used)
+ - [Project Requirements](#project-requirements)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
 [Go Back to the top](#grpc-clontacts-client)
